@@ -26,16 +26,10 @@ Curso do Bootcamp React Native Mobile Developer da [Digital Innovation One](http
 
 Neste projeto você terá o desafio de criar uma cópia do jogo do dinossauro, famoso no Chrome por nos entreter quando estamos sem conexão. Nele iremos utilizar HTML, CSS e JavaScript, abordando de maneira simples diversos conceitos introdutórios importantes para programação na web como tags básicas de HTML, manipulação de eventos, funções e manipulação de elementos HTML usando JavaScript, estilização e animações básicas com CSS.
 
-As imagens dos filmes incluídos neste projetos foram retiradas do site [The Movie Database - TMDb](https://www.themoviedb.org/). O carousel foi criado através do plugin jQuery [Owl Carousel 2](https://owlcarousel2.github.io/OwlCarousel2/), no site contém vários exemplos de carousel.
-
-Neste projeto realizei algumas alterações, como a logo da Netflix que no projeto original não tem. A fonte utilizada no original foi Arial, eu já incluí a fonte <b>Roboto</b> do [Google Fonts](https://fonts.google.com/specimen/Roboto).
-
-<i>PS.: todos os links deste clone retornam para a mesma página.</i>
-
 - [Projeto desenvolvido](https://clone-netflix.vercel.app/)
 
-<p align="center"><img src="./src/assets/img/projeto.gif" title="Clone Netflix - DIO"></p>
-<p align="center"><img src="./src/assets/img/projeto-responsivo.gif" title="Clone Netflix - DIO"></p>
+<p align="center"><img src="./src/assets/img/projeto.gif" title="Jogo do Dinossauro - DIO"></p>
+<p align="center"><img src="./src/assets/img/projeto-responsivo.gif" title="Jogo do Dinossauro - DIO"></p>
 
 <h3>👨‍💻 Tecnologias utilizadas</h3>
 
